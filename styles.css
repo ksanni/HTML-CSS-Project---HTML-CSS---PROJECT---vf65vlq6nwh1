@@ -18,7 +18,7 @@ body{
     background-color: whitesmoke;
   
     border-radius: 7px;
-    box-shadow:-20px 20px 11px rgba(38, 36, 36, 0.8);
+    box-shadow:-20px 38px 11px rgba(38, 36, 36, 0.8);
 }
 .digital-clock{
    bottom: 350px;
@@ -94,6 +94,7 @@ img{
     color: blue;
     
 }
+
 .icon:active{
     color: blueviolet;
 }
